@@ -1,9 +1,9 @@
-# read-me-generater
+# readme-generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-Node js app taking inputs from user to generate a read me.
+node js app that takes inputs from a user to generate a good read me 
 
 ## Table of Contents 
 
@@ -50,4 +50,9 @@ npm test
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at williampikus@gmail.com. You can find more of my work at [will-pikus](https://github.com/will-pikus/).
+
+## Video Link 
+
+https://www.youtube.com/watch?v=d_i-UgVqXtE&ab_channel=WillPikus
+
 
